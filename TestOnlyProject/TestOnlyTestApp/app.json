@@ -1,0 +1,44 @@
+{
+  "id": "d4e5f6a7-b8c9-0123-def0-345678901234",
+  "name": "TestOnlyTestApp",
+  "publisher": "TestPublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "77ecbd0c-c1f3-4d60-868d-f049ad39d949",
+      "name": "TestApp",
+      "publisher": "TestPublisher",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "dd0be2ea-f733-4d65-bb34-a28f36571571",
+      "name": "Library Assert",
+      "publisher": "Microsoft",
+      "version": "22.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50041,
+      "to": 50050
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
