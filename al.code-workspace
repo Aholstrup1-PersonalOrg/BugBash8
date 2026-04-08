@@ -16,6 +16,9 @@
       "path": "TestOnlyProject/TestOnlyTestApp"
     },
     {
+      "path": "DependsOnTestOnlyProject/DependsOnTestOnlyApp"
+    },
+    {
       "path": "FirstProject/.AL-Go"
     }
   ],
