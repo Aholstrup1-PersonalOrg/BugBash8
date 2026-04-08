@@ -6,5 +6,6 @@
     "TestOnlyTestApp"
   ],
   "bcptTestFolders": [],
-  "installTestRunner": true
+  "installTestRunner": true,
+  "installTestFramework": true
 }
