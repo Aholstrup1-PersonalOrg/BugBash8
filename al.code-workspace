@@ -1,7 +1,7 @@
 {
   "folders": [
     {
-      "path": "TestApp"
+      "path": "FirstProject/TestApp"
     },
     {
       "path": "SecondProject/DependentApp"
@@ -10,7 +10,7 @@
       "path": "ThirdProject/ThirdApp"
     },
     {
-      "path": ".AL-Go"
+      "path": "FirstProject/.AL-Go"
     }
   ],
   "settings": {}
