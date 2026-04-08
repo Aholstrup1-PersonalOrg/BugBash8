@@ -4,6 +4,12 @@
       "path": "TestApp"
     },
     {
+      "path": "SecondProject/DependentApp"
+    },
+    {
+      "path": "ThirdProject/ThirdApp"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
