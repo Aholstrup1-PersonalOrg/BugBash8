@@ -1,7 +1,11 @@
-pageextension 50051 EmployeeListExt extends "Employee List"
+codeunit 50051 DependsOnTestOnlyTests
 {
-    trigger OnOpenPage();
+    Subtype = Test;
+
+    [Test]
+    procedure TestDependingOnTestOnly()
     begin
-        Message('DependsOnTestOnlyApp: Hello from the project depending on TestOnlyProject');
+        if 1 <> 1 then
+            Error('This should never happen');
     end;
 }
